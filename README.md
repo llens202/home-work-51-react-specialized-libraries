@@ -40,7 +40,7 @@
 Клонуйте репозиторій:
 
 ```bash
-git clone <посилання-на-репозиторій>
+git clone https://github.com/llens202/home-work-51-react-specialized-libraries
 ```
 
 Перейдіть у папку проєкту:
@@ -63,7 +63,7 @@ npm run dev
 
 ## Демо
 
-[Посилання на демо](посилання-на-vercel)
+[Посилання на демо](https://home-work-51-react-specialized-libr.vercel.app/)
 
 
 
