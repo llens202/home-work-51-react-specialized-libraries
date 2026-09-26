@@ -46,7 +46,7 @@ git clone https://github.com/llens202/home-work-51-react-specialized-libraries
 Перейдіть у папку проєкту:
 
 ```bash
-cd <назва-проєкту>
+cd my-react-app
 ```
 
 Встановіть залежності:
